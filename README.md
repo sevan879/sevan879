@@ -1,9 +1,10 @@
-# Hi there, I'm Evan.
+# Hi there! I'm Evan
 ---
-CS @ UWaterloo
-Interested in building cool things
-That's all
-Email: revan879879@gmail.com
+
+- CS @ UWaterloo
+- Interested in building cool things
+- That's all
+School Email: e52ma@uwaterloo.ca (One below is personal email)
 
 ## Let's Connect!
 
